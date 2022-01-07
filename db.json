@@ -1,0 +1,39 @@
+{
+    "tours": [
+        {
+            "id": 0,
+            "name": "Best of Paris in 7 Days Tour",
+            "info": "Paris is synonymous with the finest things that culture can offer - in art, fashion, food, literature and ideas. On this tour, your Paris-savvy Rick Steves guide will immerse you in the very best of the City of Light: the masterpiece-packed Louvre and Orsay museums, resilient Notre-Dame Cathedral, exquisite Sainte-Chapelle and extravagant Palace of Versailles. You'll also enjoy guided neighborhood walks through the city's historic heart as well as quieter moments to slow down and savor the city's intimate cafes, colorful markets and joie de vivre. Join us for the Best of Paris in 7 Days!",
+            "image": "https://thetourguy.com/wp-content/uploads/2019/06/Paris-in-a-Day-780x420.jpg",
+            "price": "1,995"
+        },
+        {
+            "id": 1,
+            "name": "Best of Ireland in 14 Days Tour",
+            "info": "Visit all the unmissable Irish destinations including the famous Wild Atlantic Way while still experiencing Ireland at your own pace. Choosing this hub-and-spoke tour, guests on the Six-Day Iconic Scenes of Ireland stay in two quality hotels for the duration of their vacation. That means less time re-packing and checking in  more time for a truly unforgettable adventure.",
+            "image": "https://media.istockphoto.com/photos/aerial-view-of-the-scenic-cliffs-of-moher-in-ireland-picture-id1027350536?k=20&m=1027350536&s=612x612&w=0&h=u5zw6i9VvSaRjYdJBRTdaOyJwNjkfrRXta01UPu_K9Y=",
+            "price": "3,887"
+        },
+        {
+            "id": 2,
+            "name": "Best of London in 3 Days Tour",
+            "info": "Take a sightseeing tour of London to explore the city's best attractions and famous landmarks with an expert guide or at your own pace. See the capital from a different perspective on a walking tour, a double decker bus tour, or a river Thames tour; or book a one-day hop-on hop-off bus tour.",
+            "image": "https://london.ac.uk/sites/default/files/styles/max_1300x1300/public/2018-10/london-aerial-cityscape-river-thames_1.jpg?itok=6LenFxuz",
+            "price": "2,499"
+        },
+        {
+            "id": 3,
+            "name": "Best of Romania in 10 Days Tour",
+            "info": "Discover the natural beauty of Romania, a country closed behind the Iron Curtain and almost isolated from the rest of the world by the tough communist regime that ruled the country for over 40 years. Situated in the Eastern Europe and often called the Latin Island in a Slav Sea, Romania has iconic landmarks, beautiful landscapes and culture that are waiting to be discovered, making our country a fantastic travel destination!",
+            "image": "https://media.istockphoto.com/photos/peles-castle-in-sinaia-romania-on-a-sunny-fall-day-picture-id517161448?k=20&m=517161448&s=612x612&w=0&h=hidEw74b1TvQOQHF-4nO4C6TT1-gCUpv3MC4QCzFL3M=",
+            "price": "3,995"
+        },
+        {
+            "id": 4,
+            "name": "Best of Portugal in 7 Days Tour",
+            "info": "Journey through the cities and coastal villages that were once home to some of the greatest explorers the world has ever known. Sip Port in the city it's named for and soak up the historic neighborhoods along the Douro River. Coast from beaches to tranquil fishing towns in the Algarve, and end your stay in Portugal's colorful capital city.",
+            "image": "https://www.planetware.com/wpimages/2020/03/portugal-in-pictures-beautiful-places-to-photograph-lisbon.jpg",
+            "price": "4,995"
+        }
+    ]
+}
